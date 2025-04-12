@@ -43,6 +43,28 @@ While we encourage creative freedom, we maintain a respectful, ego-free environm
 - Node.js (v14+ recommended)
 - npm or yarn
 - Git
+### Project Maintainer
+**Aryse Tansy**  
+📧 **Email:** [paganowebdev@gmail.com](mailto:paganowebdev@gmail.com)  
+🌐 **Portfolio:** [pagano.dev](https://www.pagano.dev/)  
+💼 **LinkedIn:** [Your LinkedIn Profile]() *(coming soon)*  
+🐦 **Twitter:** [@YourHandle]() *(optional)*  
+
+### Community Channels
+- **GitHub Discussions:** [Start a discussion](https://github.com/Medic1111/FINALLY-SEEN/discussions)
+- **Discord Server:** [Join our community]() *(coming soon)*  
+- **Issue Tracker:** [Report bugs/request features](https://github.com/Medic1111/FINALLY-SEEN/issues)
+
+### Office Hours
+⏰ **Weekly Q&A Sessions:** Every Thursday 3-5PM UTC *(subject to change)*  
+*(Virtual meeting link will be posted in Discussions)*
+
+### Preferred Contact Methods
+1. **For code-related questions:** GitHub Issues
+2. **For general inquiries:** Email or Discussions
+3. **For urgent matters:** [Twitter DM]() *(if provided)*
+
+*We strive to respond within 48 hours for all communications.*
 
 ### Installation Guide
 
@@ -67,26 +89,3 @@ npm install -g nodemon
 nodemon app.js## 📬 Contact & Community
 
 We welcome all questions, suggestions, and contributions! Here's how to reach us:
-
-### Project Maintainer
-**Aryse Tansy**  
-📧 **Email:** [paganowebdev@gmail.com](mailto:paganowebdev@gmail.com)  
-🌐 **Portfolio:** [pagano.dev](https://www.pagano.dev/)  
-💼 **LinkedIn:** [Your LinkedIn Profile]() *(coming soon)*  
-🐦 **Twitter:** [@YourHandle]() *(optional)*  
-
-### Community Channels
-- **GitHub Discussions:** [Start a discussion](https://github.com/Medic1111/FINALLY-SEEN/discussions)
-- **Discord Server:** [Join our community]() *(coming soon)*  
-- **Issue Tracker:** [Report bugs/request features](https://github.com/Medic1111/FINALLY-SEEN/issues)
-
-### Office Hours
-⏰ **Weekly Q&A Sessions:** Every Thursday 3-5PM UTC *(subject to change)*  
-*(Virtual meeting link will be posted in Discussions)*
-
-### Preferred Contact Methods
-1. **For code-related questions:** GitHub Issues
-2. **For general inquiries:** Email or Discussions
-3. **For urgent matters:** [Twitter DM]() *(if provided)*
-
-*We strive to respond within 48 hours for all communications.*
