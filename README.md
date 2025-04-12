@@ -1,89 +1,92 @@
-# FINALLY-SEEN
+# 🚀 FINALLY-SEEN - A Collaborative Development Initiative
 
-> A contribution initiative
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=render)](https://finally-seen-oizk.onrender.com/)
+[![GitHub Issues](https://img.shields.io/github/issues/Medic1111/FINALLY-SEEN?style=for-the-badge&logo=github)](https://github.com/Medic1111/FINALLY-SEEN/issues)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
----
+![Hero Image](img1.png)
 
-[LIVE DEV DEMO](https://finally-seen-oizk.onrender.com/)
+## 🌟 About the Project
 
----
+FINALLY-SEEN is an evolving MERN stack application designed to help developers get feedback on their portfolios. This project serves as a welcoming space for developers of all skill levels to make their first open-source contributions.
 
-![hero image](img1.png)
+### ✨ Key Features
+- Portfolio URL submission system
+- Community feedback mechanism
+- Beginner-friendly contribution opportunities
+- Mentorship and guidance for new contributors
 
-## STACK
+## 🛠 Tech Stack
 
-- Client:
-  - React with CRA templated with TS
-- Server:
-  - NodeJS and Express
-- DB:
-  - MongoDB
-- Deployment:
-  - Render.io
+| Component       | Technology               |
+|----------------|--------------------------|
+| **Frontend**   | React (CRA with TypeScript) |
+| **Backend**    | Node.js + Express        |
+| **Database**   | MongoDB                  |
+| **Deployment** | Render.com               |
 
----
+## 👐 Contribution Philosophy
 
-## The Project:
+We believe everyone deserves a chance to contribute to open source. Whether you're:
+- A React developer new to TypeScript
+- A backend enthusiast looking for Node.js experience
+- Someone making their first pull request
 
-Hello World! And welcome to FINALLY-SEEN, a soon to be a MERN stack application for which a user (a dev) will be able to post the URL of their portfolio and obtain some sort of feedback.
+We'll work with you to find suitable tasks and provide guidance when needed.
 
-The Project is still to be fully defined, I just wanted to get that out there as soon as possible to help those like me who chase "good first issue"s.
+### 🚫 Code of Conduct
+While we encourage creative freedom, we maintain a respectful, ego-free environment. Please leave any negative attitudes at the door.
 
-The intention is to get everyone who wants to contribute, at least one task. I will personally try my best to adapt this project so anyone regardless of skills can hop in.
+## 🏁 Getting Started
 
-> Ex: You know react but do not know TS...No problem. Ill take your JS (thanks for that) and give the convertion to someone else to collab on.
+### Prerequisites
+- Node.js (v14+ recommended)
+- npm or yarn
+- Git
 
----
+### Installation Guide
 
-## Fearful? Don't be...
+```bash
+# 1. Fork the repository (click Fork button in top-right)
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/FINALLY-SEEN.git
+cd FINALLY-SEEN
 
-While I intend to give devs a good amount of coding freedom, I will be very specific and even (if needed and requested), outline steps needed to be performed in order to achieve the task. IT'S OKAY TO MAKE MISTAKES. Fixing bugs always make great first issues.
+# 3. Set up client
+cd client
+npm install
+npm start  # Runs on http://localhost:3000
 
-## WHAT IS NOT OKAY?
+# 4. Set up server (in new terminal)
+cd ../server
+npm install
+node app.js  # Runs on http://localhost:5000
 
-Leave your ego home. This industry is full of it and I'm sure you can find plenty of opportunities to take it "for a walk". This is not the place.
+# For development, we recommend:
+npm install -g nodemon
+nodemon app.js## 📬 Contact & Community
 
----
+We welcome all questions, suggestions, and contributions! Here's how to reach us:
 
-## HOW TO RUN?
+### Project Maintainer
+**Aryse Tansy**  
+📧 **Email:** [paganowebdev@gmail.com](mailto:paganowebdev@gmail.com)  
+🌐 **Portfolio:** [pagano.dev](https://www.pagano.dev/)  
+💼 **LinkedIn:** [Your LinkedIn Profile]() *(coming soon)*  
+🐦 **Twitter:** [@YourHandle]() *(optional)*  
 
-1. Fork this repo:
+### Community Channels
+- **GitHub Discussions:** [Start a discussion](https://github.com/Medic1111/FINALLY-SEEN/discussions)
+- **Discord Server:** [Join our community]() *(coming soon)*  
+- **Issue Tracker:** [Report bugs/request features](https://github.com/Medic1111/FINALLY-SEEN/issues)
 
-   Step 1: Click the Fork button to the right of the repository.
-   <img width="953" alt="image" src="https://user-images.githubusercontent.com/113319081/200523278-275f0ceb-f76c-4d0a-a61a-f1b192ba349f.png">
-   Step 2: We will then be navigated to the create new a fork page and click the create fork button.
-   <img width="532" alt="image" src="https://user-images.githubusercontent.com/113319081/200524284-fd38c701-bfbf-46d0-b4ae-51a9372071aa.png">
+### Office Hours
+⏰ **Weekly Q&A Sessions:** Every Thursday 3-5PM UTC *(subject to change)*  
+*(Virtual meeting link will be posted in Discussions)*
 
-2. Clone the project:
+### Preferred Contact Methods
+1. **For code-related questions:** GitHub Issues
+2. **For general inquiries:** Email or Discussions
+3. **For urgent matters:** [Twitter DM]() *(if provided)*
 
-   Step 1: On your Visual Studio Code IDE (or any IDE), click terminal and click new terminal.
-   <img width="960" alt="image" src="https://user-images.githubusercontent.com/113319081/200526564-dc48aa53-6d40-451e-882c-b617ec24df25.png">
-   Step 2: On the terminal run `git clone https://github.com/Medic1111/FINALLY-SEEN` to clone the project.
-
-3. Install dependencies client and run client:
-
-   Step 1: On the terminal in your VScode IDE run `cd .\FINALLY-SEEN\`
-
-   Step 2: Then run `cd .\client\` and run `npm install` to install dependencies client.
-
-   Step 3: With all dependencies installed, while still on the client you can run `npm start` to start the client on localhost 3000
-
-4. Install dependencies server and run server:
-
-   Step 1: On the new terminal in your VScode IDE(while on the root of the project) run `cd .\server\`
-
-   Step 2: Then run `npm install` to install dependencies server.
-
-   Step 3: With all dependencies installed, while still on the server you can run `node app.js` to start the server.
-
-> I highly suggest using nodemon to run the server. It is not a dependency of this project but feel free to use your globally installed one.
-
----
-
-### WHO AM I
-
-**:point_right: Aryse Tansy**
-:e-mail: paganowebdev@gmail.com
-:computer: [Portfolio](https://www.pagano.dev/)
-
----
+*We strive to respond within 48 hours for all communications.*
